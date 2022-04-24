@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on something top secret
 - 🌱 I’m currently learning laravel livewire and getting more knowledge about cool laravel features
-- 💬 Ask me about **anything*
+- 💬 Ask me about **anything**
